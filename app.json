@@ -1,9 +1,9 @@
 {
-    "name": "Veez Music Bot",
+    "name": "Vieena Music Bot",
     "logo": "https://i.postimg.cc/SQBqsJjN/logo8-11-232731.png",
-    "description": "Veez Music project allow you to stream music trought the telegram voice chat feature.",
+    "description": "Vieena Music project allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/levina-lab/veezmusic",
+    "repository": "https://github.com/65KRpqTon/VieenaMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
